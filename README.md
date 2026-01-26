@@ -25,11 +25,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdtajul&repo=YOUR_REPO_NAME&theme=tokyonight" />
-</p>
 
 
 ---
